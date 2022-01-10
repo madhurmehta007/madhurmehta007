@@ -1,3 +1,5 @@
+[![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhurmehta007)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hola, I'm Madhur Mehta!
 
 <!--
