@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Cards App and Weather App
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on Weather App and Timetable/Attendance App
+- 🌱 I’m currently learning Kotlin and docker
 - 👯 I’m looking to collaborate on Android Projects
 
 [![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhurmehta007)](https://github.com/anuraghazra/github-readme-stats)
