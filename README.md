@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhurmehta007&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurmehta007&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurmehta007&show_icons=true&theme=radical&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhurmehta007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
