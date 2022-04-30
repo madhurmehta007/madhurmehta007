@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working as an intern in AICAN Automate LLt
-- 🌱 I’m currently learning Kotlin and docker
-- 👯 I’m looking to collaborate on Android Projects
+- 🔭 I’m currently working as an application developer intern in AICAN Automate LLt.
+- 🌱 I’m currently learning Kotlin and docker.
+- 👯 I’m looking to collaborate on Android Projects.
 
 ![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhurmehta007&show_icons=true&theme=radical)
 
