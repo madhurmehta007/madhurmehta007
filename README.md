@@ -1,6 +1,6 @@
 ### Hola, I'm Madhur Mehta!
 
-- 🔭 I worked as an Android Developer Intern at AICAN Automate LLP and as an SDE Intern at Vaidhya Megha.
+- 🔭 I worked as an Android Developer Intern at 5 startups.
 - 🌱 I’m currently shifting towards jetpack compose.
 - 👯 I’m looking to collaborate on Android Projects.
 
