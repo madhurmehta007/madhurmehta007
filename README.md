@@ -2,7 +2,7 @@
 
 - 🔭 I worked as an Android Developer Intern at 5 startups.
 - 🌱 I’m currently shifting towards jetpack compose.
-- 👯 I’m looking to collaborate on Android Projects.
+- 👯 I’m open to collaborate on Android Projects.
 
 ![Madhur's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhurmehta007&show_icons=true&theme=radical)
 
