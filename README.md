@@ -1,6 +1,6 @@
 ### Hola, I'm Madhur Mehta!
 
-- 🔭 I worked as an Android Developer Intern at 5 startups.
+- 🔭 I work as an Android Developer.
 - 🌱 I’m currently shifting towards jetpack compose.
 - 👯 I’m open to collaborate on Android Projects.
 
