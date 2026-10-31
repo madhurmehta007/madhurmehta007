@@ -22,5 +22,4 @@
 
 ## 📫 Reach me
 
-[![X](https://img.shields.io/badge/@madhurmehta007-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/madhurmehta007)
 [![GitHub](https://img.shields.io/badge/madhurmehta007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/madhurmehta007)
