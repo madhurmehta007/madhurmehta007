@@ -20,19 +20,6 @@
 
 **Architecture:** MVVM · Clean Architecture · Unidirectional Data Flow · Coroutines & Flow · Room · Retrofit
 
-## 🚀 Featured projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**CineVerse**](https://github.com/madhurmehta007/CineVerse) | Movie showcase app with shared element transitions, debounced live search and synced favorites, powered by a KMP library | Compose · KMP · Ktor · SQLDelight · Koin |
-| [**CineVerse-Library**](https://github.com/madhurmehta007/CineVerse-Library) | The shared Kotlin Multiplatform library behind CineVerse, targeting Android and iOS | KMP · Compose Multiplatform |
-| [**SpoonFeed**](https://github.com/madhurmehta007/Recipe-App) | Find recipes from the ingredients you already have, with offline favorites | Kotlin · MVVM · Retrofit · Room |
-| [**Schedura**](https://github.com/GDSC-DSI/Schedura) | Smarter class schedule management (GDSC DSI) | Kotlin · Android |
-| [**PlanetPulse**](https://github.com/DroidDevs-NITK/PlanetPulse) | Track your carbon footprint and get tips to reduce it | Kotlin · Android |
-| [**Pass-Ki-Dukaan**](https://github.com/RedFox-Developers/Pass-Ki-Dukaan) | Vendor app connecting customers with local shops | Kotlin · Android |
-
 ## 📫 Reach me
 
 [![LinkedIn](https://img.shields.io/badge/madhurmehta007-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjIiIHk9IjkiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTMiLz48Y2lyY2xlIGN4PSI0LjI1IiBjeT0iNC41IiByPSIyLjUiLz48cGF0aCBkPSJNOSA5aDQuM3YxLjhDMTQgOS42IDE1LjQgOC43IDE3LjQgOC43IDIxIDguNyAyMiAxMSAyMiAxNC4zVjIyaC00LjV2LTYuOGMwLTEuNi0uMy0zLTItM3MtMi4yIDEuMy0yLjIgM1YyMkg5eiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/madhurmehta007/)
-[![X](https://img.shields.io/badge/@madhurmehta007-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/madhurmehta007)
-[![GitHub](https://img.shields.io/badge/madhurmehta007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/madhurmehta007)
