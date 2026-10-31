@@ -22,6 +22,6 @@
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/madhurmehta007-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhurmehta007/)
+[![LinkedIn](https://img.shields.io/badge/madhurmehta007-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxyZWN0IHg9IjIiIHk9IjkiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTMiLz48Y2lyY2xlIGN4PSI0LjI1IiBjeT0iNC41IiByPSIyLjUiLz48cGF0aCBkPSJNOSA5aDQuM3YxLjhDMTQgOS42IDE1LjQgOC43IDE3LjQgOC43IDIxIDguNyAyMiAxMSAyMiAxNC4zVjIyaC00LjV2LTYuOGMwLTEuNi0uMy0zLTItM3MtMi4yIDEuMy0yLjIgM1YyMkg5eiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/madhurmehta007/)
 [![X](https://img.shields.io/badge/@madhurmehta007-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/madhurmehta007)
 [![GitHub](https://img.shields.io/badge/madhurmehta007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/madhurmehta007)
